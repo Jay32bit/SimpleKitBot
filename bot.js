@@ -78,7 +78,7 @@ loadKitRequests();
 const CONFIG = {
     host: 'test.minecraft.server', //ENTER YOUR SERVER IP HERE
     port: 25565,
-    username: 'IntelBOT', //ENTER YOUR BOT ACCOUNT'S IGN HERE!
+    username: 'TestBOT', //ENTER YOUR BOT ACCOUNT'S IGN HERE!
     chestCoords: { x: 0, y: 69, z: 0 }, //this is the coords of the chest that contains the kit!
     loginCommand: '/login password', 
     registerCommand: '/register password password', 
